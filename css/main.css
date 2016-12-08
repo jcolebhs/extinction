@@ -1,0 +1,105 @@
+h1 {
+	text-align: center;
+	color: white;
+	font-size: 75px;
+	padding-top: 25px;
+	border-top: 10px solid #000;
+	border-bottom: 10px solid #000;
+	background-color: gray;
+	width: 100%;
+	font-family: 'Anton', sans-serif;
+
+}
+
+h2 {
+	color: white;
+	text-align: center;
+	font-family: 'Anton', sans-serif;
+}
+h4 {
+	color: white;
+	font-family: 'Anton', sans-serif;
+}
+h5 {
+	text-align: center;
+	color: white; 	
+	font-family: 'Anton', sans-serif;
+}
+
+body {
+	background-color: gray;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+p {
+	color: white;
+	border: gray;  
+	font-family: 'Bitter', serif;
+}
+#wrapper {
+	background-color: black;
+	width: 80%;
+	margin: 0 auto;
+	padding: 5%;
+}
+.facts {
+	float: right;
+}
+img {
+	margin: auto;
+	width: 90%;
+	height: auto;
+	float: left;
+	border: double;
+	color: gray;
+	border-width: 10px;
+}
+h3 {
+	color: white;
+	font-family: 'Anton', sans-serif;
+}
+section {
+	width: 100%;
+	padding: 40px 0;
+	margin: 25px 0;
+}
+.clear {
+	clear: both;
+}
+.left {
+	width: 50%;
+	float: left;
+}
+.right {
+	width: 50%;
+	float: left;
+}
+.fourth .images-wrap img {
+	width: 45%;
+	float: left;
+}
+footer {
+	border-top: 10px solid gray;
+}
+.footer-social {
+	text-align: center;
+}
+
+.footer-social li {
+		display: inline-block;
+		list-style-type: none;
+		margin: 0 10px;
+		width: 50px;
+		height: auto;	
+}
+
+.footer-social li img {
+	width:100%;
+}
+.thanks {
+	text-align: center;
+	font-size: 15px;
+}
